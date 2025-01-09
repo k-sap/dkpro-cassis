@@ -20,7 +20,7 @@ AUTHOR = "The DKPro cassis team"
 REQUIRES_PYTHON = ">=3.7.0"
 
 install_requires = [
-    "lxml~=4.9.1",
+    "lxml~=5.3.0",
     "attrs>=21.2,<24",
     "sortedcontainers==2.4.*",
     "toposort==1.7",
